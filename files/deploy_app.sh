@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprNJX_z9OEB9N9w1Ycgh7XHTuRTmeAMYbPQ&s" alt="Image not found"></img></center>
+  <center><img src="https://postfiles.pstatic.net/MjAyNDA1MDJfNDgg/MDAxNzE0NjEzODkxMzc0.ql6h1CXYDNx2RleHifVUXWvOiMeEAAP0glPhnOZwJVwg.6ZGMwJqscHoDJ3rPjgW_WWKVZOTBLbZVLnlXY2YNt_0g.JPEG/IMG_9114.JPG?type=w773" alt="Image not found"></img></center>
   <center><h2>KOVENGERS</h2></center>
   Welcome to KOVENGERS app.
   <!-- END -->
