@@ -11,11 +11,8 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprNJX_z9OEB9N9w1Ycgh7XHTuRTmeAMYbPQ&s" alt="Image not found"></img></center>
-  <a href="https://ibb.co/XSBGShk"><img src="https://i.ibb.co/Hnv9nWp/kovengers.png" alt="kovengers" border="0"></a>
-  
-  <center><h2>KOVENGERS</h2></center>
-  Welcome to KOVENGERS app.
+  <center><img src="https://i.ibb.co/Hnv9nWp/kovengers.png" alt="kovengers" ></img></center>  
+  <center><h2>Welcome to KOVENGERS app.</h2></center>
   <!-- END -->
 
   </div>
