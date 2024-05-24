@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="kovengers.png" alt="Image not found"></img></center>
+  <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprNJX_z9OEB9N9w1Ycgh7XHTuRTmeAMYbPQ&s" alt="Image not found"></img></center>
   <center><h2>KOVENGERS</h2></center>
   Welcome to KOVENGERS app.
   <!-- END -->
